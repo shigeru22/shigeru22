@@ -24,8 +24,8 @@
     <summary>Links</summary>
 	<br />
 	<div align="center">
-		<a href="https://shigeru-web.vercel.app"><img alt="Portofolio URL" src="https://img.shields.io/badge/-Portofolio-def9dc?style=flat"></a>
-		<a href="https://twitter.com/shigeru_22"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fshigeru_22"></a>
-		<a href="https://www.linkedin.com/in/jeremy-yonathan/"><img alt="LinkedIn URL" src="https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=linkedin"></a>
+		<a href="https://shigeru-web.vercel.app"><img alt="Portofolio URL" height="48" src="https://assets.kyutorius.com/button?icon=https%3A%2F%2Fkyutorius.com%2Fkyuu.svg&label=Portfolio&color=062326" /></a>
+		<a href="https://twitter.com/shigeru_22"><img alt="Twitter URL" height="48" src="https://assets.kyutorius.com/button?icon=twitter&label=Twitter&color=1DA1F2"></a>
+		<a href="https://www.linkedin.com/in/jeremy-yonathan/"><img alt="LinkedIn URL" height="48" src="https://assets.kyutorius.com/button?icon=linkedin&label=LinkedIn&color=0A66C2"></a>
 	</div>
 </details>
