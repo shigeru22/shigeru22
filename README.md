@@ -1,5 +1,5 @@
-![Welcome header image](./img/header-dark.svg#gh-dark-mode-only)
-![Welcome header image](./img/header-light.svg#gh-light-mode-only)
+![Welcome header image](./img/header-dark.png#gh-dark-mode-only)
+![Welcome header image](./img/header-light.png#gh-light-mode-only)
 
 <div align="middle">
 	<br/>
@@ -15,21 +15,21 @@
 </div>
 <br />
 
-![Common technologies header image](./img/tech-dark.svg#gh-dark-mode-only)
-![Common technologies header image](./img/tech-light.svg#gh-light-mode-only)
+![Common technologies header image](./img/tech-dark.png#gh-dark-mode-only)
+![Common technologies header image](./img/tech-light.png#gh-light-mode-only)
 
 Mostly .NET (C#) for desktop applications and PHP or Node.js for web applications. I often try to learn anything on the fly.
 Other things include Linux administration and I have interest in anything technology related!
 
-![Links header image](./img/links-dark.svg#gh-dark-mode-only)
-![Links header image](./img/links-light.svg#gh-light-mode-only)
+![Links header image](./img/links-dark.png#gh-dark-mode-only)
+![Links header image](./img/links-light.png#gh-light-mode-only)
 
 <div align="center">
 	<a href="https://kyutorius.com/#gh-dark-mode-only">
-		<img alt="Website URL" height="48" src="https://assets.kyutorius.com/button?icon=https%3A%2F%2Fkyutorius.com%2Fkyuu.svg&label=Portfolio&color=FFFFFF&coloricon=true" />
+		<img alt="Website URL" height="48" src="https://assets.kyutorius.com/button?icon=https%3A%2F%2Fkyutorius.com%2Fkyuu.png&label=Portfolio&color=FFFFFF&coloricon=true" />
 	</a>
 	<a href="https://kyutorius.com/#gh-light-mode-only">
-		<img alt="Website URL" height="48" src="https://assets.kyutorius.com/button?icon=https%3A%2F%2Fkyutorius.com%2Fkyuu.svg&label=Portfolio&color=000000&coloricon=true" />
+		<img alt="Website URL" height="48" src="https://assets.kyutorius.com/button?icon=https%3A%2F%2Fkyutorius.com%2Fkyuu.png&label=Portfolio&color=000000&coloricon=true" />
 	</a>
 	<a href="https://twitter.com/shigeru_22"><img alt="Twitter URL" height="48" src="https://assets.kyutorius.com/button?icon=twitter&label=Twitter&color=1DA1F2&coloricon=true"></a>
 	<a href="https://www.linkedin.com/in/jeremy-yonathan/"><img alt="LinkedIn URL" height="48" src="https://assets.kyutorius.com/button?icon=linkedin&label=LinkedIn&color=0A66C2&coloricon=true"></a>
