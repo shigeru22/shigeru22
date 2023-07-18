@@ -3,7 +3,7 @@
 
 <div align="middle">
 	<br/>
-	<a href="https://github.com/Itsakaseru"><img style="height: 27vw;" src="collab/2022/04/Itsakaseru.jpg"></a><a href="https://github.com/shigeru22"><img style="height: 27vw;" src="collab/2022/04/Shigeru.jpg"></a>
+	<a href="https://github.com/Itsakaseru"><img style="height: 27vw;" src="collab/2023/07/Itsakaseru.png"></a><a href="https://github.com/shigeru22"><img style="height: 27vw;" src="collab/2023/07/Shigeru.png"></a>
 </div>
 <br />
 <div align="middle">
@@ -11,9 +11,8 @@
 	<a href="https://github.com/shigeru22">shigeru22</a>
 </div>
 <div align="middle">
-	Collab Art by <a href="https://www.pixiv.net/en/users/361359">あじゃぱ</a>
+	Collab Art by <a href="https://twitter.com/ah_hahauccu/status/1560743022131679232">RiTA</a>
 </div>
-<br />
 
 ![Common technologies header image](./img/tech-dark.png#gh-dark-mode-only)
 ![Common technologies header image](./img/tech-light.png#gh-light-mode-only)
