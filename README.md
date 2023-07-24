@@ -44,3 +44,10 @@ Other things include Linux administration and I have interest in anything techno
 		<img alt="LinkedIn URL" height="48" src="img/linkedin-light.png" />
 	</a>
 </div>
+<br />
+
+![Past Collabs header image](./img/past-collabs-dark.png#gh-dark-mode-only)
+![Past Collabs header image](./img/past-collabs-light.png#gh-light-mode-only)
+
+- [Love Live! Nijigasaki Gakuen School Idol Doukoukai](https://github.com/shigeru22/shigeru22/tree/c5e9994118777f16946ea9891b0c2c78e68614d3) (2022/04)
+- [The Idolmaster: Million Live!](https://github.com/shigeru22/shigeru22/tree/637eeec564fff0210698e6751e43a15948e3e247) (2021/08)
