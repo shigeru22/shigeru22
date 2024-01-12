@@ -49,5 +49,6 @@ Other things include Linux administration and I have interest in anything techno
 ![Past Collabs header image](./img/past-collabs-dark.png#gh-dark-mode-only)
 ![Past Collabs header image](./img/past-collabs-light.png#gh-light-mode-only)
 
+- [Lycoris Recoil](https://github.com/shigeru22/shigeru22/tree/6630222cb8db604eae71a4040996ac30d50ededb) (2023/07)
 - [Love Live! Nijigasaki Gakuen School Idol Doukoukai](https://github.com/shigeru22/shigeru22/tree/c5e9994118777f16946ea9891b0c2c78e68614d3) (2022/04)
 - [The Idolmaster: Million Live!](https://github.com/shigeru22/shigeru22/tree/637eeec564fff0210698e6751e43a15948e3e247) (2021/08)
